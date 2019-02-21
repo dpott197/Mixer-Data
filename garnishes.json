@@ -1,0 +1,91 @@
+{
+  "garnishes": [
+    {
+      "id": "10996d77-3e03-449b-a7f1-e1ba44da457a",
+      "name": "Carrot"
+    },
+    {
+      "id": "94d68565-fe8c-4f48-8073-0ed8bcf1773a",
+      "name": "Cherry"
+    },
+    {
+      "id": "57b7ba7a-e170-467c-8759-90ab93243b62",
+      "name": "Chocolate Syrup"
+    },
+    {
+      "id": "d6458088-fc11-4a6d-9785-3e32a03c23cb",
+      "name": "Egg Whites"
+    },
+    {
+      "id": "83dbb59f-0ecb-4933-97dd-8f89fbc7b3ea",
+      "name": "Fresh Cranberries"
+    },
+    {
+      "id": "2810a62e-4d37-49d6-b903-6be9516acd8d",
+      "name": "Grapefruit Twist"
+    },
+    {
+      "id": "e64e853f-4c8e-492f-b349-2c22e30113a1",
+      "name": "Lemon"
+    },
+    {
+      "id": "8b71f4f8-5480-47fb-be17-1f367904b53c",
+      "name": "Lemon Peel"
+    },
+    {
+      "id": "b814c131-bf3c-440f-8ef8-16ba4e1d00c3",
+      "name": "Lime Half"
+    },
+    {
+      "id": "cc4bc576-60c1-4f35-bcb1-ad49de88dcb0",
+      "name": "Lime Wedge"
+    },
+    {
+      "id": "6dc78f63-3d7c-41c2-9af1-e23209b1c65a",
+      "name": "Lime Wheel"
+    },
+    {
+      "id": "c50e994f-25f3-4b01-9480-775c3f9539c7",
+      "name": "Mango Slice"
+    },
+    {
+      "id": "52f0a42c-d3e4-4233-b0bc-8c1434392114",
+      "name": "Maraschino Cherry"
+    },
+    {
+      "id": "2d75665d-8220-4a79-8225-69c62b893fe1",
+      "name": "Mint Leaves"
+    },
+    {
+      "id": "a660dc06-71a9-470b-a7ef-3d7d4ddd1b48",
+      "name": "Olive"
+    },
+    {
+      "id": "a28e3de5-bb00-444b-bf98-ddacb9f25ba0",
+      "name": "Orange Peel"
+    },
+    {
+      "id": "5eb97afe-904e-49b4-9e4b-eac72edf33be",
+      "name": "Orange Slice"
+    },
+    {
+      "id": "78b140b2-31eb-4083-8d11-6d8110179186",
+      "name": "Peach Slice"
+    },
+    {
+      "id": "e16e211a-9580-47a6-8414-9ebcaf221b90",
+      "name": "Pear Slice"
+    },
+    {
+      "id": "8c45f471-03dc-417a-b1e5-d08e4dea6b69",
+      "name": "Pineapple Slice"
+    },
+    {
+      "id": "f25b513e-e89f-4414-87cc-2f98d2b7ec84",
+      "name": "Rosemary Sprigs"
+    }
+  ],
+  "meta": {
+    "total_pages": 1
+  }
+}

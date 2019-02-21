@@ -1,0 +1,39 @@
+{
+  "glasses": [
+    {
+      "id": "b0eb9b0f-1605-4f01-8160-72b3b59f3b7d",
+      "name": "Collins Glass"
+    },
+    {
+      "id": "2bc86c15-b5c1-4adc-9513-f63880f0751f",
+      "name": "Highball Glass"
+    },
+    {
+      "id": "7acb275b-6c3f-4686-ad7b-c28a4ea60ffa",
+      "name": "Martini Glass"
+    },
+    {
+      "id": "cbf86012-9736-4ff5-97a1-d8fb3d531369",
+      "name": "Mason Jar"
+    },
+    {
+      "id": "b8005a1e-dddd-4be5-8388-7c08d8f18098",
+      "name": "Rocks Glass"
+    },
+    {
+      "id": "ad87ee6c-ba2b-48b8-a848-118e31eb4f2a",
+      "name": "Shot Glass"
+    },
+    {
+      "id": "da885d1e-b2fa-4685-a032-a52f917e8197",
+      "name": "Standard Glass"
+    },
+    {
+      "id": "8645dbbd-70ef-4bbb-a56e-2784e4d7bf8c",
+      "name": "White Wine Glass"
+    }
+  ],
+  "meta": {
+    "total_pages": 1
+  }
+}
